@@ -6,7 +6,7 @@
 |-|-|-|-|-|
 |`Forecasting - Timeseries`|Sales|`Random Forest Regressor`|`statsmodels`, `pandas`, `sklearn`, `seaborn`|https://github.com/erdiolmezogullari/ml-time-series-analysis-on-sales-data|
 
-If you want to see the further ML projects, you may visit my main repo: https://github.com/erdiolmezogullari/ml-projects
+
 
 There are stores are giving two type of promos such as radio, TV corresponding to promo1 and promo2 so that they want to increase their sales across Germany, Austria, and France. However, they don't have any idea about which promo is sufficient to do it. So, the impact of promos on their sales are important roles on their preference.
 
